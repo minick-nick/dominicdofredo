@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding-top: 70px;
+  font-family: Roboto;
+  background-color: #56D2D2;   
+}
+
+main {
+  margin-bottom: 300px;
+}
+
+.sections {
+  font-size: 22px;
+  color: white;
+  background-color: black;
+  font-weight: 700;
+  height: 70px;
+  padding-left: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  letter-spacing: 4px;
+  text-shadow: 1.5px 1px 0 #A59F9F;
+}

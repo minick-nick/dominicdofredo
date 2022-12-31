@@ -1,0 +1,52 @@
+.my-top-project-text {
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.project-container {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.project-card-first, .project-card-second, .project-card-third {
+  display: inline-block;
+  width: 300px;
+  margin-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  border-radius: 15px;
+}
+
+.project-card-first {
+  background-color: #F2AC29;
+}
+
+.project-card-second {
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: #FEAAB7;
+}
+
+.project-card-third {
+  background-color: #F13BF1;
+}
+
+.project-icon {
+  width: 70px;
+  height: 70px;
+}
+
+.project-title {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.project-description {
+  text-align: justify;
+  margin-bottom: 0;
+}

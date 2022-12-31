@@ -1,0 +1,48 @@
+footer {
+  background-color: black;
+  color: white;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  padding-left: 30px;
+}
+
+.contact-me-text {
+  font-weight: 700;
+}
+
+.email, .facebook {
+  color: red;
+  text-decoration: none;
+}
+
+footer div {
+  margin-top: 4px;
+}
+
+.contact-me-text {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.below-footer {
+  display: flex;
+}
+
+.below-footer div {
+  height: 8px;
+}
+
+.pink {
+  flex: 1;
+  background-color: #FEAAB7;
+}
+
+.orange {
+  flex: 2;
+  background-color: #F2AC29;
+}
+
+.purple {
+  flex: 10;
+  background-color: #F13BF1;
+}

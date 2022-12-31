@@ -1,0 +1,19 @@
+#about-me-section-container {
+  height: 600px;
+}
+
+.about-me-section-content {
+  margin-top: 40px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.about-me-section-content div {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.about-me-section-content p {
+  font-weight: 400;
+  font-size: 24px;
+}
